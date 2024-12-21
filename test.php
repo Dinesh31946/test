@@ -4,5 +4,6 @@ $test = "Test file";
 
 echo $test;
 echo $test;
+echo $test;
 
 ?>
